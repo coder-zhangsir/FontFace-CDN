@@ -9,7 +9,8 @@
     ``` css
     @font-face {
       font-family: HarmonyOS;
-      src: url(../font/HarmonyOS_Sans_SC_Medium.ttf);
+      /* https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径 */
+      src: url(https://cdn.jsdelivr.net/gh/coder-zhangsir/FontFace-CDN@v1.0/HarmonyOS/Sans_SC_Medium.ttf);
     }
     ```
 2.  愉快玩耍
